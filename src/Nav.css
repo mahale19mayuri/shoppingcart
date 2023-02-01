@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.contentiner{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    position: sticky;
+}
+.rightnav{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 1rem;
+    margin-right:20px;
+     flex-wrap:wrap ;
+}
+.home{
+    margin-right: 30px;
+    flex-wrap:wrap ;
+
+}
